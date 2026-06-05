@@ -14,8 +14,8 @@ With this tool, you can easily toggle your system between "Gaming Mode" and "Wor
 
 1. Go to the **[Releases](../../releases)** tab on the right side of this repository.
 2. In the *Assets* section, download the version of the script you need:
-   - `SwitchMode_EN.bat` (English version)
-   - `SwitchMode_RU.bat` (Russian version)
+   - `SwitchModeEN.bat` (English version)
+   - `SwitchModeRU.bat` (Russian version)
 3. Save the file somewhere convenient, like your Desktop.
 
 ### 🚀 How to Use
@@ -58,8 +58,8 @@ This tool is provided "as is". Use at your own risk.
 
 1. Перейдите на вкладку **[Releases](../../releases)** (Релизы) в правой части этого репозитория.
 2. В разделе *Assets* скачайте нужную вам версию скрипта:
-   - `SwitchMode_RU.bat` (Русская версия)
-   - `SwitchMode_EN.bat` (English version)
+   - `SwitchModeRU.bat` (Русская версия)
+   - `SwitchModeEN.bat` (English version)
 3. Сохраните файл в удобное место, например, на Рабочий стол.
 
 ### 🚀 Как использовать
